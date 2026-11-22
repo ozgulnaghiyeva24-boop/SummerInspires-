@@ -1,0 +1,6 @@
+{
+  "name": "@summer.inspires — Reels Kontent Studiyası",
+  "description": "İngilis dili və IELTS müəllimi Özgül (Summer) üçün few-shot üslub yaddaşlı Instagram Reels ssenari, hook, B-roll və tələbə cəlbi studiyası.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
